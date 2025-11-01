@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="T1DmCpfJDpuGVxk3pq8t">
-    <mxGraphModel dx="1097" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+    <mxGraphModel dx="906" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
         </mxCell>
         <mxCell id="U6RIbt0HO61NMRowXoWE-7" value="Select course" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;rounded=1;" parent="U6RIbt0HO61NMRowXoWE-5" vertex="1" connectable="0">
           <mxGeometry x="0.0524" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="PLr5qb-knC-6Fq4rB62o-10" value="UI" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};labelBackgroundColor=none;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;rounded=1;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         </mxCell>
         <mxCell id="U6RIbt0HO61NMRowXoWE-8" value="requestCourse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#46495D;rounded=1;" parent="U6RIbt0HO61NMRowXoWE-4" vertex="1" connectable="0">
           <mxGeometry x="0.1565" y="-4" relative="1" as="geometry">
-            <mxPoint x="-17" y="-4" as="offset" />
+            <mxPoint x="-17" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U6RIbt0HO61NMRowXoWE-12" value="getCourseInfo" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=default;" parent="1" source="PLr5qb-knC-6Fq4rB62o-11" target="PLr5qb-knC-6Fq4rB62o-12" edge="1">
